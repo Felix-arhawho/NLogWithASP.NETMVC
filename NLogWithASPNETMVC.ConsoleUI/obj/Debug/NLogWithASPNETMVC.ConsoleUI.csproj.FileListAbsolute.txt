@@ -1,0 +1,12 @@
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\bin\Debug\NLog.config
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\bin\Debug\NLogWithASPNETMVC.ConsoleUI.exe.config
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\bin\Debug\NLogWithASPNETMVC.ConsoleUI.exe
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\bin\Debug\NLogWithASPNETMVC.ConsoleUI.pdb
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\bin\Debug\NLog.dll
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\bin\Debug\NLog.xml
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\obj\Debug\NLogWithASPNETMVC.ConsoleUI.csproj.AssemblyReference.cache
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\obj\Debug\NLogWithASPNETMVC.ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\obj\Debug\NLogWithASPNETMVC.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\obj\Debug\NLogWithASPNETMVC.ConsoleUI.csproj.CopyComplete
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\obj\Debug\NLogWithASPNETMVC.ConsoleUI.exe
+C:\Repositories\NLogWithASPNETMVC\NLogWithASPNETMVC.ConsoleUI\obj\Debug\NLogWithASPNETMVC.ConsoleUI.pdb
